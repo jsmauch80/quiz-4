@@ -1,9 +1,18 @@
-Project: Web APIs: Code Quiz
+# Project: Web APIs: Code Quiz
 
-#  A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges.
+  Deployable Link: https://jsmauch80.github.io/quiz-4/
 
-Repo:	https://github.com/jsmauch80/quiz-4
+  Repo Link: https://github.com/jsmauch80/quiz-4
 
-Live: 	https://jsmauch80.github.io/quiz-4/
 
-Screenshot:	![image]()
+## Description:
+Quiz Project
+
+## Github: 
+Check out more projects on my Github at https://github.com/jsmauch80
+
+## My Email Address:
+If you have any questions please feel free to email me at halocynjunkbox@gmail.com
+
+## Other Contributors:
+None at this time.
