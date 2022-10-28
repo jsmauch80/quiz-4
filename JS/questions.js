@@ -1,6 +1,6 @@
-//Collaborated with Janvier Mbilizi
 
-// list of all questions, choices, and answers
+
+
 var questions = [
   {
     title: "Which one is a looping structure in JavaScript?",
